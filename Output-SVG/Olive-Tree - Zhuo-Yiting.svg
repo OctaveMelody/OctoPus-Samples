@@ -1,0 +1,814 @@
+<svg width="1000" height="1415" version="1.1" viewBox="0 0 1000 1415" encoding="UTF-8" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" height="100%" width="100%" fill="#ffffff" /><defs>
+<g id="diaohao_fu" transform="translate(-50,-50)"><path d="m63.90001,57.81227l-8.81873,0l0,-1.70001l3.45433,0l0,-11.7568l-3.53561,1.04459l0,-1.80243l5.46599,-1.59762l0,14.11224l3.43402,0l0,1.70001l0,0.00001l0,0.00001z" fill="#1b1b1b"/><rect height="2" width="11" y="46.85897" x="68" stroke-width="33" fill="#1b1b1b"/><rect height="2" width="11" y="51.32479" x="68" stroke-width="33" fill="#1b1b1b"/></g><g id="diaohao_zimu_d" transform="translate(-50,-50)"><path fill="black" d="m43.49999,42.00974l0,15.98051l4.54472,0q3.63578,0 6.04554,-2.11382t2.40975,-5.66505q0,-3.72033 -2.40975,-5.96098t-6.19351,-2.24066l-4.39675,0zm2.05041,14.14149l0,-12.3236l2.3252,0q3.04391,0 4.7561,1.66992t1.7122,4.65042q0,3.00163 -1.75447,4.50245t-4.60813,1.50081l-2.4309,0z"/></g><g id="paihao_xian" transform="translate(-50,-50)"><rect fill="#1b1b1b" stroke-width="33" stroke-linejoin="null" stroke-linecap="null" x="51" y="49" width="21" height="2"/></g><g id="shuzi_b_bian_2" transform="translate(-50,-50)"><path d="m54.73171,57.18378l-9.46388,0c0,-1.22058 0.25339,-2.21228 0.76018,-2.97604c0.27837,-0.40686 0.64955,-0.85298 1.1135,-1.33834c0.46396,-0.48537 1.03856,-1.00644 1.72379,-1.56274c0.60672,-0.49251 1.11886,-0.93149 1.53643,-1.31692c0.41757,-0.38546 0.75304,-0.74725 1.00644,-1.08674c0.2534,-0.33906 0.4354,-0.67274 0.54604,-1.00108s0.16596,-0.68166 0.16596,-1.05996c0,-0.59957 -0.16596,-1.06534 -0.49786,-1.39724c-0.3319,-0.33191 -0.81193,-0.49786 -1.44005,-0.49786c-0.25697,0 -0.50321,0.05175 -0.73877,0.15525c-0.23555,0.10349 -0.44433,0.25875 -0.62634,0.46575c-0.18202,0.20699 -0.33369,0.46218 -0.45504,0.76553c-0.12135,0.30336 -0.19629,0.65847 -0.22484,1.06532l-2.59104,0c0.05711,-0.69236 0.207,-1.32229 0.44968,-1.88975s0.56567,-1.04926 0.96897,-1.4454c0.40329,-0.39616 0.87974,-0.70308 1.42935,-0.92078c0.54918,-0.21771 1.15633,-0.32655 1.82016,-0.32655c0.71378,0 1.35039,0.10349 1.91116,0.31049c0.56032,0.20699 1.02964,0.49252 1.40794,0.85654c0.37831,0.36403 0.66738,0.79229 0.86725,1.28481c0.19986,0.49251 0.29978,1.02785 0.29978,1.60601c0,0.53534 -0.07138,1.02786 -0.21413,1.47752c-0.14276,0.44969 -0.35689,0.87796 -0.6424,1.28481c-0.27124,0.37117 -0.67452,0.83513 -1.20986,1.39188c-0.53534,0.55676 -1.19202,1.1599 -1.97005,1.80944c-0.22841,0.19272 -0.52107,0.45147 -0.87795,0.77625c-0.3569,0.32476 -0.70665,0.72626 -1.04927,1.20451l5.99535,0l0,2.36531l-0.00045,0l-0.00001,-0.00002z" fill="black"/></g><g id="shuzi_b_bian_4" transform="translate(-50,-50)"><path d="m54.96645,54.05346l-1.77282,0l0,3.1344l-2.55111,0l0,-3.1344l-5.60941,0l0,-2.02145l6.16115,-9.21987l1.99982,0l0,8.92801l1.7728,0l0,2.31331l-0.00044,0l0.00001,0zm-4.32348,-2.31331l0,-4.43158l-2.81056,4.43158l2.81056,0z" fill="black"/></g><g id="shuzi_b_0" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><path fill="black" d="m49.99374,41.08005c0.94927,0 1.7798,0.19606 2.48943,0.58818c0.71017,0.39212 1.3027,0.97158 1.77761,1.7384s0.83218,1.71009 1.07181,2.82927c0.23963,1.11972 0.35943,2.40719 0.35943,3.86185c0,2.89299 -0.47707,5.08615 -1.43124,6.58057c-0.95415,1.49442 -2.37614,2.24163 -4.26704,2.24163c-1.89962,0 -3.32215,-0.74721 -4.26759,-2.24163c-0.9449,-1.49442 -1.41818,-3.68758 -1.41818,-6.58057c0,-1.45466 0.11764,-2.74213 0.35292,-3.86185c0.23528,-1.11973 0.58982,-2.063 1.06471,-2.82927s1.06746,-1.34629 1.77817,-1.7384c0.71018,-0.39212 1.54017,-0.58818 2.48997,-0.58818zm0,15.23937c0.41827,0 0.7837,-0.10892 1.09793,-0.32676c0.31371,-0.2173 0.57729,-0.57294 0.79078,-1.06527c0.2135,-0.49232 0.37471,-1.1328 0.48362,-1.9214c0.10893,-0.7886 0.16339,-1.75801 0.16339,-2.90823s-0.05446,-2.13053 -0.16339,-2.94036s-0.27011,-1.47264 -0.48362,-1.98621c-0.21402,-0.51411 -0.47707,-0.89098 -0.79078,-1.13062c-0.31369,-0.23963 -0.67967,-0.35944 -1.09793,-0.35944c-0.40954,0 -0.77117,0.11763 -1.08488,0.35291c-0.31314,0.23527 -0.57892,0.60997 -0.79731,1.12354c-0.21731,0.51411 -0.38123,1.17636 -0.48962,1.98676c-0.10891,0.81038 -0.16338,1.79504 -0.16338,2.95343c0,1.15023 0.05447,2.12181 0.16338,2.91478c0.10839,0.79295 0.27231,1.43341 0.48962,1.9214c0.21785,0.48797 0.48417,0.84087 0.79731,1.05873c0.31371,0.21784 0.67533,0.32676 1.08488,0.32676z"/></g><g id="xiaojiexian" transform="translate(-50,-50)"><rect fill="#ffffff" stroke-width="0" x="45.05" y="35.85" width="9.9" height="28.4"/><rect height="29" width="1.5" y="35.5" x="49.25" stroke-width="null" fill="#1b1b1b"/></g><g id="shuzi_b_3" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><path fill="black" d="m54.93183,45.6956c0,0.30541 -0.03266,0.61626 -0.09799,0.93421c-0.06533,0.31793 -0.16333,0.62716 -0.29398,0.92767c-0.13066,0.30051 -0.29398,0.58361 -0.48997,0.84929c-0.19599,0.26566 -0.42464,0.49868 -0.68596,0.69902c0.38327,0.20034 0.72298,0.45513 1.01915,0.76435c0.29561,0.30923 0.54441,0.65548 0.74475,1.03874c0.20035,0.38326 0.35278,0.79266 0.4573,1.2282c0.10453,0.43553 0.1568,0.87977 0.1568,1.33272c0,0.80138 -0.14809,1.53743 -0.44425,2.20814s-0.7012,1.24562 -1.21513,1.72415c-0.51393,0.47909 -1.12366,0.85146 -1.82923,1.11714s-1.46338,0.39851 -2.27293,0.39851c-0.81879,0 -1.56791,-0.13066 -2.24733,-0.39198c-0.67942,-0.26131 -1.26957,-0.62933 -1.76989,-1.10406c-0.50087,-0.47473 -0.89937,-1.04963 -1.19553,-1.7247c-0.29616,-0.67453 -0.46602,-1.42582 -0.50957,-2.25388l3.20061,0c0,0.39199 0.05443,0.76219 0.16332,1.11061c0.10888,0.34843 0.27003,0.6533 0.48343,0.91461c0.21342,0.26131 0.47691,0.4682 0.79049,0.62063c0.31358,0.15243 0.67506,0.22865 1.08447,0.22865c0.39198,0 0.74857,-0.06968 1.07141,-0.20905c0.3223,-0.13936 0.59668,-0.33319 0.82316,-0.58143c0.22647,-0.24825 0.40068,-0.54441 0.52263,-0.88848c0.12195,-0.34406 0.18293,-0.72026 0.18293,-1.13019c0,-0.41811 -0.06316,-0.80138 -0.18946,-1.1498c-0.12632,-0.34843 -0.31359,-0.64677 -0.56184,-0.89502c-0.24825,-0.24825 -0.55312,-0.44206 -0.91462,-0.58143c-0.36149,-0.13883 -0.78178,-0.20905 -1.26085,-0.20905l-1.3066,0l0,-2.60012l0.99301,0c0.8188,0 1.43073,-0.21559 1.83576,-0.64677c0.40505,-0.43117 0.60757,-1.01697 0.60757,-1.75736c0,-0.6533 -0.16986,-1.14708 -0.50957,-1.48299c-0.33973,-0.33536 -0.82317,-0.50304 -1.45033,-0.50304c-1.29788,0 -2.03828,0.83622 -2.22121,2.50811l-3.16195,0c0.09582,-0.83621 0.29562,-1.57227 0.60104,-2.20814c0.30487,-0.63533 0.69249,-1.1694 1.16286,-1.60057c0.47037,-0.43118 1.00988,-0.75566 1.62017,-0.97342c0.60974,-0.21777 1.26303,-0.32664 1.95988,-0.32664c0.78396,0 1.4917,0.11324 2.12321,0.33971c0.63153,0.22647 1.17158,0.54441 1.62017,0.9538c0.4486,0.4094 0.79485,0.89502 1.03874,1.45685c0.24335,0.56292 0.3653,1.18356 0.3653,1.86299z"/></g><g id="shuzi_b_1" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><path fill="black" d="m51.67429,58.96851l-3.22071,0l0,-12.75941c-0.95127,0.34427 -2.26945,0.5164 -3.95398,0.5164l0,-2.70432c2.64486,0 4.15782,-0.99656 4.53833,-2.98969l2.63636,0l0,17.93701l0,0.00001z"/></g><g id="shuzi_b_2" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><path fill="black" d="m55.87582,58.9208l-11.7522,0c0,-1.51571 0.31466,-2.7472 0.94398,-3.69563c0.34569,-0.50523 0.80661,-1.05922 1.38274,-1.66194c0.57614,-0.60274 1.28968,-1.24979 2.14059,-1.94061c0.75342,-0.61159 1.38939,-1.15672 1.90792,-1.63535c0.51854,-0.47865 0.93513,-0.92792 1.24979,-1.34951c0.31466,-0.42104 0.54068,-0.83541 0.67807,-1.24313s0.20608,-0.84649 0.20608,-1.31626c0,-0.74455 -0.20608,-1.32293 -0.61824,-1.73509c-0.41216,-0.41216 -1.00825,-0.61824 -1.78825,-0.61824c-0.3191,0 -0.62489,0.06426 -0.9174,0.1928c-0.2925,0.12851 -0.55177,0.32131 -0.77779,0.57836c-0.22603,0.25704 -0.41438,0.57393 -0.56507,0.95063c-0.15069,0.37671 -0.24375,0.81768 -0.2792,1.32291l-3.21754,0c0.07092,-0.85977 0.25705,-1.64201 0.55841,-2.34668s0.70245,-1.30296 1.20326,-1.7949c0.5008,-0.49194 1.09246,-0.87307 1.77496,-1.14342c0.68196,-0.27035 1.43592,-0.40551 2.26026,-0.40551c0.88637,0 1.67691,0.12852 2.37326,0.38556c0.6958,0.25705 1.2786,0.61161 1.74837,1.06366c0.46978,0.45205 0.82875,0.98386 1.07695,1.59547c0.24818,0.6116 0.37227,1.27638 0.37227,1.99434c0,0.66478 -0.08864,1.27638 -0.26591,1.83478c-0.17728,0.55843 -0.44318,1.09025 -0.79773,1.59548c-0.33683,0.46091 -0.83762,1.03705 -1.5024,1.72842c-0.66478,0.69138 -1.48024,1.44036 -2.44639,2.24696c-0.28364,0.23932 -0.64706,0.56063 -1.09024,0.96394c-0.44319,0.40329 -0.87751,0.90186 -1.30297,1.49575l7.44499,0l0,2.93723l-0.00056,0z"/></g><g id="shuzi_b_4" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><path fill="black" d="m56.19011,55.05219l-2.20961,0l0,3.90667l-3.17968,0l0,-3.90667l-6.99149,0l0,-2.51951l7.67918,-11.49153l2.49255,0l0,11.12776l2.20959,0l0,2.88328l-0.00055,0zm-5.38873,-2.88328l0,-5.52346l-3.50304,5.52346l3.50304,0z"/></g><g id="shuzi_b_7" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><path fill="black" d="m55.87997,43.13621l-6.17193,15.81672l-3.52656,0l6.13122,-14.92137l-8.19324,0l0,-2.9845l11.76108,0l0,2.08915l-0.00056,0z"/></g><g id="shuzi_b_6" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><path fill="black" d="m50.29938,43.72362c-0.35482,0 -0.68151,0.10386 -0.98061,0.31155c-0.29856,0.2077 -0.56468,0.50194 -0.79834,0.88272c-0.23367,0.38078 -0.43704,0.84377 -0.61011,1.38898s-0.30344,1.15532 -0.38943,1.83033c0.44947,-0.3202 0.91896,-0.57983 1.40845,-0.77886c0.48895,-0.19905 1.00603,-0.29858 1.55123,-0.29858c0.79619,0 1.51394,0.15578 2.15433,0.46732c0.64039,0.31155 1.18778,0.73776 1.64212,1.27864c0.45434,0.54089 0.80212,1.16831 1.04499,1.88227c0.24177,0.71396 0.36347,1.47335 0.36347,2.27765s-0.12983,1.56638 -0.38943,2.28468c-0.25963,0.71828 -0.62742,1.34354 -1.1034,1.87576s-1.04931,0.95412 -1.71999,1.26567c-0.6707,0.31154 -1.4171,0.46732 -2.23925,0.46732c-0.94329,0 -1.78274,-0.19039 -2.51834,-0.57117c-0.73504,-0.38079 -1.35436,-0.92815 -1.85629,-1.64212c-0.50194,-0.71395 -0.88489,-1.58586 -1.1483,-2.6157c-0.26395,-1.02983 -0.39592,-2.19759 -0.39592,-3.50436c0,-1.52257 0.12764,-2.86829 0.38295,-4.03659c0.25528,-1.1683 0.63607,-2.14838 1.14233,-2.94022c0.50627,-0.79185 1.13964,-1.3906 1.90173,-1.79789c0.76102,-0.40674 1.64861,-0.61011 2.66059,-0.61011c0.65771,0 1.26999,0.10385 1.83683,0.31154c0.5663,0.2077 1.07257,0.51492 1.51878,0.92166c0.44516,0.40674 0.81783,0.9195 1.11584,1.53827c0.29857,0.61877 0.50789,1.3349 0.62959,2.14838l-3.16686,0c-0.18065,-1.55828 -0.86,-2.33715 -2.03695,-2.33715zm-0.18174,6.03569c-0.90003,0 -1.81357,0.463 -2.73849,1.38844c0.02596,0.79618 0.1098,1.51015 0.25314,2.14189c0.1428,0.63175 0.33264,1.1683 0.57117,1.60966c0.23745,0.44136 0.52573,0.78103 0.86325,1.01902c0.33751,0.23798 0.71395,0.35697 1.12935,0.35697c0.36347,0 0.68962,-0.0822 0.98008,-0.24663c0.2899,-0.16443 0.53656,-0.3916 0.73991,-0.68151s0.35915,-0.62742 0.46733,-1.01253c0.10818,-0.38457 0.16225,-0.79834 0.16225,-1.23969c0,-0.45001 -0.05624,-0.87623 -0.16874,-1.27864c-0.11305,-0.40241 -0.27531,-0.75723 -0.48679,-1.06446c-0.21257,-0.30667 -0.46733,-0.54953 -0.76589,-0.72693c-0.2991,-0.17687 -0.63444,-0.26558 -1.00658,-0.26558z"/></g><g id="shuzi_b_5" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><path fill="black" d="m48.01051,46.989c0.65007,-0.30746 1.43137,-0.4612 2.34499,-0.4612c0.72037,0 1.41217,0.13176 2.07542,0.39531c0.66326,0.26355 1.24911,0.65228 1.75917,1.16618c0.50953,0.51392 0.91362,1.15081 1.21231,1.91015c0.29813,0.75989 0.44802,1.63618 0.44802,2.62886c0,0.87848 -0.14274,1.69767 -0.42826,2.45756s-0.6874,1.4182 -1.20571,1.97659s-1.14862,0.99488 -1.89038,1.31113c-0.74287,0.31626 -1.56591,0.47438 -2.47073,0.47438c-0.73794,0 -1.43194,-0.112 -2.08201,-0.33601c-0.65008,-0.22401 -1.22768,-0.56443 -1.73281,-1.02124c-0.50513,-0.45681 -0.92461,-1.02782 -1.25842,-1.71304s-0.54466,-1.48902 -0.63251,-2.41143l3.18889,0c0.05271,0.48315 0.15374,0.90484 0.30307,1.26502c0.14935,0.36017 0.33602,0.65886 0.56004,0.89605c0.224,0.23719 0.47657,0.41289 0.75768,0.52708c0.28111,0.11421 0.5798,0.1713 0.89606,0.1713c0.42166,0 0.8038,-0.08784 1.14641,-0.26354c0.3426,-0.1757 0.6369,-0.41947 0.88287,-0.73134c0.24597,-0.31131 0.43704,-0.67423 0.57321,-1.08657s0.20425,-0.85652 0.20425,-1.3309c0,-0.5798 -0.07029,-1.08931 -0.21084,-1.52856c-0.14056,-0.43924 -0.33602,-0.80546 -0.5864,-1.1003c-0.25036,-0.29428 -0.54905,-0.51775 -0.89605,-0.67204c-0.34699,-0.15374 -0.73133,-0.23061 -1.15301,-0.23061c-0.97512,0 -1.85798,0.44363 -2.64862,1.3309l-2.43724,0l0.76428,-9.46071l9.59248,0l0,2.89899l-6.85162,0l-0.22456,2.93797z"/></g><g id="yanyinfu" transform="translate(-50,-50)"><rect height="17.9" width="11.1" y="41.05" x="44.45" stroke-width="0" fill="#ffffff"/><rect height="3.2" width="11" y="48.4" x="44.5" stroke-width="null" fill="#1b1b1b"/></g><g id="xunhuan_zuo" transform="translate(-50,-50)"><rect fill="#ffffff" stroke-width="0" x="46.65" y="35.75" width="12.1" height="28.4"/><rect height="29" width="2.4" y="35.5" x="48.35" stroke-width="null" fill="#1b1b1b"/><rect height="29" width="1" y="35.5" x="52.3" stroke-width="null" fill="#1b1b1b"/><circle r="1.53489" cy="44.675" cx="56.775" fill="#1b1b1b"/><circle r="1.53489" cy="55.325" cx="56.825" fill="#1b1b1b"/></g><g id="shuzi_null" transform="translate(-50,-50)"></g><g id="xunhuan_you" transform="translate(-50,-50)"><rect height="28.4" width="12.1" y="35.75" x="39.95" stroke-width="0" fill="#ffffff"/><rect height="29" width="1" y="35.5" x="45.65" fill="#1b1b1b"/><rect height="29" width="2.4" y="35.5" x="48.35" fill="#1b1b1b"/><circle r="1.53489" cy="44.15" cx="41.75" fill="#1b1b1b"/><circle r="1.53489" cy="54.8" cx="41.8" fill="#1b1b1b"/></g><g id="jieshufu" transform="translate(-50,-50)"><rect fill="#ffffff" stroke-width="0" x="42.45" y="35.65" width="11.7" height="28.4"/><rect height="29" width="1" y="35.5" x="45.65" stroke-width="null" fill="#1b1b1b"/><rect height="29" width="2.4" y="35.5" x="48.35" stroke-width="null" fill="#1b1b1b"/></g><g id="kuohu_zuo" transform="translate(-50,-50)"><path fill="#1b1b1b" d="m36.1523,40.8691q-3.2273,3.6996 -3.2273,9.0718t3.2273,9.19l1.6727,0q-3.247,-3.9751 -3.247,-9.1703t3.2273,-9.0915l-1.653,0l0,0z"/></g><g id="bianyinfu_sheng" transform="translate(-50,-50)"><path stroke-width="33" d="m41.54219,35.03224c0.12982,-0.07418 0.33382,-0.01855 0.408,0.14836c0.03709,0.07418 0.03709,0.12982 0.03709,1.428c0,0.76036 0,1.37236 0.01855,1.37236c0,0 0.16691,-0.07418 0.37091,-0.14837c0.42654,-0.16691 0.48218,-0.18546 0.59345,-0.09272c0.12982,0.09272 0.12982,0.11127 0.12982,0.85309c0,0.63055 0,0.68618 -0.03709,0.74182c-0.01854,0.03709 -0.05563,0.07418 -0.07418,0.09273c-0.03709,0.01854 -0.25964,0.12982 -0.51927,0.22255l-0.46364,0.204l-0.01855,1.50218c0,0.816 0,1.50218 0.01855,1.50218c0,0 0.16691,-0.07418 0.37091,-0.14836c0.42654,-0.16691 0.48218,-0.18546 0.59345,-0.09273c0.12982,0.09273 0.12982,0.11127 0.12982,0.85309c0,0.63055 0,0.68618 -0.03709,0.74182c-0.01854,0.03709 -0.05563,0.07418 -0.07418,0.09273c-0.03709,0.01855 -0.25964,0.12981 -0.51927,0.22254l-0.46364,0.204l-0.01855,1.55782c0,1.40945 -0.01854,1.57637 -0.03709,1.632c-0.12982,0.22255 -0.44509,0.22255 -0.57491,0c-0.01854,-0.05564 -0.03709,-0.204 -0.03709,-1.50218l0,-1.428l-0.79745,0.31528l-0.77891,0.31527l0,1.50218c0,1.59491 0,1.55782 -0.09273,1.65055c-0.03709,0.05564 -0.16691,0.11127 -0.22255,0.11127c-0.07418,0 -0.204,-0.05563 -0.24109,-0.11127c-0.09273,-0.09272 -0.09273,-0.05563 -0.09273,-1.50218c0,-0.76037 0,-1.37236 -0.01854,-1.37236c0,0 -0.16691,0.07418 -0.37091,0.14836c-0.42655,0.16691 -0.48218,0.18546 -0.59346,0.09273c-0.12982,-0.09273 -0.12982,-0.11127 -0.12982,-0.85309c0,-0.63055 0,-0.68618 0.03709,-0.74182c0.01855,-0.03709 0.05564,-0.07418 0.07418,-0.09272c0.03709,-0.01855 0.25964,-0.12982 0.51927,-0.22255l0.48218,-0.204l0,-1.50218c0,-0.816 0,-1.50218 -0.01854,-1.50218c0,0 -0.16691,0.07418 -0.37091,0.14837c-0.42655,0.16691 -0.48218,0.18545 -0.59346,0.09272c-0.12982,-0.09272 -0.12982,-0.11127 -0.12982,-0.85309c0,-0.63055 0,-0.68618 0.03709,-0.74182c0.01855,-0.03709 0.05564,-0.07418 0.07418,-0.09273c0.03709,-0.01854 0.25964,-0.12982 0.51927,-0.22255l0.48218,-0.204l0,-1.55782c0,-1.40945 0.01855,-1.57636 0.03709,-1.632c0.12982,-0.22255 0.44509,-0.22255 0.57491,0c0.01855,0.05564 0.03709,0.204 0.03709,1.50218l0.01854,1.428l0.77891,-0.31527l0.77891,-0.31527l0,-1.50219c0,-1.40945 0,-1.50218 0.03709,-1.57637c0.03709,-0.07418 0.07418,-0.11127 0.16691,-0.14836zm-0.204,6.58364l0,-1.50218l-0.79745,0.31527l-0.77891,0.31527l0,1.52073l0,1.50218l0.05563,-0.01855c0.03709,-0.01855 0.38946,-0.16691 0.79746,-0.31527l0.72327,-0.29673l0,-1.52073z" fill="#1b1b1b"/></g><g id="yingao_di" transform="translate(-50,-50)"><ellipse ry="1.9" rx="1.9" cy="63" cx="49.3" fill="#1b1b1b"/></g><g id="kuohu_you" transform="translate(-50,-50)"><path fill="#1b1b1b" d="m64.02271,40.8691q3.2273,3.6996 3.2273,9.0718t-3.2273,9.19l-1.67271,0q3.247,-3.9751 3.247,-9.1703t-3.2273,-9.0915l1.65301,0l0,0z"/></g><g id="fudian" transform="translate(-50,-50)"><ellipse fill="#1b1b1b" cx="62.35" cy="49.75" rx="2.45" ry="2.45"/></g><g id="yingao_gao" transform="translate(-50,-50)"><ellipse ry="1.9" rx="1.9" cy="36" cx="49.3" fill="#1b1b1b"/></g><g id="lianyinxian_zuo" transform="translate(-50,-50)"><path stroke="#1b1b1b" d="m50.75,50.75c0,0 -8.39389,0.56947 -12.21896,8.88383" stroke-linecap="round" stroke-linejoin="null" stroke-width="1.2" fill="none"/></g><g id="lianyinxian_you" transform="translate(-50,-50)"><path stroke="#1b1b1b" d="m50.75,50.75c0,0 7.64178,0.56947 11.12411,8.88383" stroke-linecap="round" stroke-linejoin="null" stroke-width="1.2" fill="none"/></g></defs>
+<text x="500" y="90" dy="30.078" text-anchor="middle" fill="#1b1b1b" style="font-weight:bold;" font-size="36" font-family="SimHei" >橄榄树</text>
+<text x="500" y="146" dy="16.71" text-anchor="middle" fill="#1b1b1b" font-size="20" font-family="SimHei" >演唱：卓依婷</text>
+<use x="80" y="156" xlink:href="#diaohao_fu" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="120" y="156" xlink:href="#diaohao_zimu_d" code="D" data-diaohao="true" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="130" y="156" xlink:href="#paihao_xian" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="140" y="144" xlink:href="#shuzi_b_bian_2" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="140" y="168" xlink:href="#shuzi_b_bian_4" fill="#414141" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="80" y="197" dy="5.368" fill="#1b1b1b" font-size="16" font-family="Microsoft YaHei" >中速</text>
+<text x="920" y="206" dy="-2.632" text-anchor="end" fill="#1b1b1b" font-size="16" font-family="Microsoft YaHei" >(自制谱)</text>
+<text x="920" y="185" dy="-2.632" text-anchor="end" fill="#1b1b1b" font-size="16" font-family="Microsoft YaHei" >李泰祥  曲</text>
+<text x="920" y="164" dy="-2.632" text-anchor="end" fill="#1b1b1b" font-size="16" font-family="Microsoft YaHei" >三　毛  词</text>
+<use x="91.472222222222" y="246" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_1_1" code="0&zkh" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="125.36111111111" y="246" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_1_2" code="0" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="149.08333333333" y="246" xlink:href="#xiaojiexian" notepos="0_1_3" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="172.80555555556" y="246" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_1_4" code="0" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="198.22222222222" y="246" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_1_5" code="0" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="221.94444444444" y="246" xlink:href="#xiaojiexian" notepos="0_1_6" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="245.66666666667" y="246" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_1_7" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="262.61111111111" y="246" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_1_8" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="279.55555555556" y="246" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_1_9" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="304.97222222222" y="246" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_1_10" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="328.69444444444" y="246" xlink:href="#xiaojiexian" notepos="0_1_11" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="352.41666666667" y="246" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_1_12" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="369.36111111111" y="246" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_1_13" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="386.30555555556" y="246" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_1_14" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="411.72222222222" y="246" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_1_15" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="432.05555555556" y="246" xlink:href="#shuzi_b_4" time="0.25" audio="4" notepos="0_1_16" code="4//#" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="449" y="246" xlink:href="#shuzi_b_3" time="0.25" audio="3" notepos="0_1_17" code="3//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="476.11111111111" y="246" xlink:href="#xiaojiexian" notepos="0_1_18" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="499.83333333333" y="246" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_1_19" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="516.77777777778" y="246" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_1_20" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="533.72222222222" y="246" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_1_21" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="559.13888888889" y="246" xlink:href="#shuzi_b_2" time="1" audio="2" notepos="0_1_22" code="2(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="582.86111111111" y="246" xlink:href="#xiaojiexian" notepos="0_1_23" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="606.58333333333" y="246" xlink:href="#shuzi_b_2" time="0.5" audio="0" notepos="0_1_24" code="2/)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="623.52777777778" y="246" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_1_25" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="640.47222222222" y="246" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_1_26" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="665.88888888889" y="246" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_1_27" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="682.83333333333" y="246" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_1_28" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="699.77777777778" y="246" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_1_29" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="723.5" y="246" xlink:href="#xiaojiexian" notepos="0_1_30" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="747.22222222222" y="246" xlink:href="#shuzi_b_1" time="0.5" audio="1" notepos="0_1_31" code="1/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="772.63888888889" y="246" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_1_32" code="6," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="798.05555555556" y="246" xlink:href="#shuzi_b_1" time="0.5" audio="1" notepos="0_1_33" code="1/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="821.77777777778" y="246" xlink:href="#xiaojiexian" notepos="0_1_34" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="845.5" y="246" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_1_35" code="7,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="870.91666666667" y="246" xlink:href="#shuzi_b_5" time="1" audio="5," notepos="0_1_36" code="5," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="896.33333333333" y="246" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_1_37" code="7,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="923" y="246" xlink:href="#xiaojiexian" notepos="0_1_38" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="324" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_2_1" code="6," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="111.21585903084" y="324" xlink:href="#yanyinfu" time="1" audio="" notepos="0_2_2" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="137.55066079295" y="324" xlink:href="#xiaojiexian" notepos="0_2_3" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="163.88546255507" y="324" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_2_4" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="182.69603524229" y="324" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_2_5" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="201.50660792952" y="324" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_2_6" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="229.72246696035" y="324" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_2_7" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="256.05726872247" y="324" xlink:href="#xiaojiexian" notepos="0_2_8" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="286.15418502203" y="324" xlink:href="#shuzi_b_4" time="1" audio="4" notepos="0_2_9" code="4#" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="318.13215859031" y="324" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_2_10" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="336.94273127753" y="324" xlink:href="#shuzi_b_4" time="0.5" audio="4" notepos="0_2_11" code="4/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="363.27753303965" y="324" xlink:href="#xiaojiexian" notepos="0_2_12" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="389.61233480176" y="324" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_2_13" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="408.42290748899" y="324" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_2_14" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="427.23348017621" y="324" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_2_15" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="455.44933920705" y="324" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_2_16" code="6(," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="481.78414096916" y="324" xlink:href="#xiaojiexian" notepos="0_2_17" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="508.11894273128" y="324" xlink:href="#shuzi_b_6" time="1" audio="0" notepos="0_2_18" code="6,)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="536.33480176211" y="324" xlink:href="#shuzi_b_0" time="0.25" audio="0" notepos="0_2_19" code="0//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="555.14537444934" y="324" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_2_20" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="573.95594713656" y="324" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_2_21" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="592.76651982379" y="324" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_2_22" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="619.1013215859" y="324" xlink:href="#xiaojiexian" notepos="0_2_23" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="645.43612334802" y="324" xlink:href="#shuzi_b_1" time="1" audio="1" notepos="0_2_24" code="1" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="673.65198237885" y="324" xlink:href="#yanyinfu" time="1" audio="" notepos="0_2_25" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="699.98678414097" y="324" xlink:href="#xiaojiexian" notepos="0_2_26" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="726.32158590308" y="324" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_2_27" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="745.13215859031" y="324" xlink:href="#shuzi_b_1" time="0.5" audio="1" notepos="0_2_28" code="1/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="773.34801762115" y="324" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_2_29" code="7,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="792.15859030837" y="324" xlink:href="#shuzi_b_6" time="0.25" audio="6," notepos="0_2_30" code="6,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="810.96916299559" y="324" xlink:href="#shuzi_b_5" time="0.25" audio="5," notepos="0_2_31" code="5,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="837.30396475771" y="324" xlink:href="#xiaojiexian" notepos="0_2_32" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="863.63876651982" y="324" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_2_33" code="6," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="891.85462555066" y="324" xlink:href="#yanyinfu" time="1" audio="" notepos="0_2_34" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="923" y="324" xlink:href="#xiaojiexian" notepos="0_2_35" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="402" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_3_1" code="0&ykh" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="78.5" y="440" dy="5.368" text-anchor="end" fill="#101010" font-size="16" font-family="Microsoft YaHei" xml:space="preserve" >1.</text>
+<text x="78.5" y="468" dy="5.368" text-anchor="end" fill="#101010" font-size="16" font-family="Microsoft YaHei" xml:space="preserve" >2.</text>
+<use x="119.42654028436" y="402" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_3_2" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="137.63981042654" y="402" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_3_3" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="128.63981042654" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_3" >不</text>
+<text x="128.63981042654" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_3" >(为</text>
+<use x="167.99526066351" y="402" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_3_4" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="158.99526066351" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_4" >要</text>
+<text x="158.99526066351" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_4" >了)</text>
+<use x="205.63601895735" y="402" xlink:href="#xunhuan_zuo" notepos="0_3_5" time="0" audio="" code="|z" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="231.1345971564" y="402" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_3_6" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="222.1345971564" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_6" >问</text>
+<text x="222.1345971564" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_6" >天</text>
+<use x="249.34786729858" y="402" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_3_7" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="240.34786729858" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_7" >我</text>
+<text x="240.34786729858" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_7" >空</text>
+<use x="280.31042654028" y="402" xlink:href="#shuzi_b_4" time="0.5" audio="4" notepos="0_3_8" code="4#/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="271.31042654028" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_8" >从</text>
+<text x="271.31042654028" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_8" >飞</text>
+<use x="298.52369668246" y="402" xlink:href="#shuzi_b_3" time="0.25" audio="3" notepos="0_3_9" code="3//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="289.52369668246" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_9" >哪</text>
+<text x="289.52369668246" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_9" >翔</text>
+<use x="316.73696682464" y="402" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_3_10" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="307.73696682464" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_10" >里</text>
+<text x="307.73696682464" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_10" >的</text>
+<use x="345.87819905213" y="402" xlink:href="#xiaojiexian" notepos="0_3_11" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="371.37677725118" y="402" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_3_12" code="3(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="362.37677725118" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_12" >来</text>
+<text x="380.37677725118" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >，</text>
+<text x="362.37677725118" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_12" >小鸟,</text>
+<use x="431.07582938389" y="402" xlink:href="#yanyinfu" time="1" audio="" notepos="0_3_13" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="456.57440758294" y="402" xlink:href="#xiaojiexian" notepos="0_3_14" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="482.07298578199" y="402" xlink:href="#shuzi_b_3" time="1" audio="0" notepos="0_3_15" code="3)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="509.39289099526" y="402" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_3_16" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="527.60616113744" y="402" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_3_17" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="518.60616113744" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_17" >我</text>
+<text x="518.60616113744" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_17" >为</text>
+<use x="545.81943127962" y="402" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_3_18" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="536.81943127962" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_18" >的</text>
+<text x="536.81943127962" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_18" >了</text>
+<use x="571.31800947867" y="402" xlink:href="#xiaojiexian" notepos="0_3_19" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="596.81658767773" y="402" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_3_20" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="587.81658767773" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_20" >故</text>
+<text x="587.81658767773" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_20" >山</text>
+<use x="615.02985781991" y="402" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_3_21" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="606.02985781991" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_21" >乡</text>
+<text x="606.02985781991" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_21" >间</text>
+<use x="645.99241706161" y="402" xlink:href="#shuzi_b_4" time="0.5" audio="4" notepos="0_3_22" code="4#/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="636.99241706161" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_22" >在</text>
+<text x="636.99241706161" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_22" >轻</text>
+<use x="664.20568720379" y="402" xlink:href="#shuzi_b_3" time="0.25" audio="3" notepos="0_3_23" code="3(//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="655.20568720379" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_23" >远</text>
+<text x="655.20568720379" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_23" >流</text>
+<use x="682.41895734597" y="402" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_3_24" code="2//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="673.41895734597" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_24" >的</text>
+<use x="711.56018957346" y="402" xlink:href="#xiaojiexian" notepos="0_3_25" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="737.05876777251" y="402" xlink:href="#shuzi_b_1" time="1" audio="1" notepos="0_3_26" code="1(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="728.05876777251" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_26" >方</text>
+<text x="749.05876777251" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >,</text>
+<text x="728.05876777251" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_26" >小溪,</text>
+<use x="796.75781990521" y="402" xlink:href="#yanyinfu" time="1" audio="" notepos="0_3_27" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="822.25639810427" y="402" xlink:href="#xiaojiexian" notepos="0_3_28" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="847.75497630332" y="402" xlink:href="#shuzi_b_1" time="1" audio="0" notepos="0_3_29" code="1)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="875.07488151659" y="402" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_3_30" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="893.28815165877" y="402" xlink:href="#shuzi_b_6" time="0.5" audio="6" notepos="0_3_31" code="6/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="884.28815165877" y="440" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_31" >为</text>
+<text x="884.28815165877" y="468" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_3_31" >为</text>
+<use x="923" y="402" xlink:href="#xiaojiexian" notepos="0_3_32" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="548" xlink:href="#shuzi_null" time="0" audio="" notepos="0_4_1" code="8" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="78.5" y="586" dy="5.368" text-anchor="end" fill="#101010" font-size="16" font-family="Microsoft YaHei" xml:space="preserve" >1.</text>
+<text x="78.5" y="614" dy="5.368" text-anchor="end" fill="#101010" font-size="16" font-family="Microsoft YaHei" xml:space="preserve" >2.</text>
+<use x="110.35231316726" y="548" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_4_2" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="101.35231316726" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_2" >什</text>
+<text x="101.35231316726" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_2" >了</text>
+<use x="128.5871886121" y="548" xlink:href="#shuzi_b_6" time="0.5" audio="6" notepos="0_4_3" code="6/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="119.5871886121" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_3" >么</text>
+<use x="155.93950177936" y="548" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_4_4" code="3(/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="146.93950177936" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_4" >流</text>
+<text x="146.93950177936" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_4" >宽</text>
+<use x="174.1743772242" y="548" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_4_5" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="165.1743772242" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_5" >阔</text>
+<use x="192.40925266904" y="548" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_4_6" code="2//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="183.40925266904" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_6" >的</text>
+<use x="217.93807829181" y="548" xlink:href="#xiaojiexian" notepos="0_4_7" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="243.46690391459" y="548" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_4_8" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="234.46690391459" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_8" >浪</text>
+<text x="255.46690391459" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >,</text>
+<text x="234.46690391459" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_8" >草原，</text>
+<use x="313.36725978648" y="548" xlink:href="#yanyinfu" time="1" audio="" notepos="0_4_9" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="338.89608540925" y="548" xlink:href="#xiaojiexian" notepos="0_4_10" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="364.42491103203" y="548" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_4_11" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="382.65978647687" y="548" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_4_12" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="373.65978647687" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_12" >流</text>
+<text x="373.65978647687" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_12" >流</text>
+<use x="410.01209964413" y="548" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_4_13" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="401.01209964413" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_13" >浪</text>
+<text x="401.01209964413" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_13" >浪</text>
+<use x="428.24697508897" y="548" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_4_14" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="419.24697508897" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_14" >远</text>
+<text x="419.24697508897" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_14" >远</text>
+<use x="453.77580071174" y="548" xlink:href="#xiaojiexian" notepos="0_4_15" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="479.30462633452" y="548" xlink:href="#shuzi_b_1" time="1" audio="1" notepos="0_4_16" code="1(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="470.30462633452" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_16" >方</text>
+<text x="488.30462633452" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >，</text>
+<text x="470.30462633452" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_16" >方</text>
+<text x="488.30462633452" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >，</text>
+<use x="506.65693950178" y="548" xlink:href="#yanyinfu" time="1" audio="" notepos="0_4_17" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="532.18576512456" y="548" xlink:href="#xiaojiexian" notepos="0_4_18" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="557.71459074733" y="548" xlink:href="#shuzi_b_1" time="1" audio="0" notepos="0_4_19" code="1)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="585.06690391459" y="548" xlink:href="#yanyinfu" time="1" audio="" notepos="0_4_20" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="610.59572953737" y="548" xlink:href="#xiaojiexian" notepos="0_4_21" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="636.12455516014" y="548" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_4_22" code="0" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="663.4768683274" y="548" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_4_23" code="7(,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="654.4768683274" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_23" >流</text>
+<text x="654.4768683274" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_23" >流</text>
+<use x="681.71174377224" y="548" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_4_24" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="672.71174377224" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_24" ></text>
+<use x="699.94661921708" y="548" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_4_25" code="1//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="690.94661921708" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_25" ></text>
+<use x="725.47544483986" y="548" xlink:href="#xiaojiexian" notepos="0_4_26" time="0" audio="" code="|[+'1'" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="751.00427046263" y="548" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_4_27" code="6(," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="742.00427046263" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_27" >浪</text>
+<text x="760.00427046263" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >。</text>
+<text x="742.00427046263" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_27" ></text>
+<use x="778.35658362989" y="548" xlink:href="#yanyinfu" time="1" audio="" notepos="0_4_28" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="803.88540925267" y="548" xlink:href="#xiaojiexian" notepos="0_4_29" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="829.41423487544" y="548" xlink:href="#shuzi_b_6" time="1" audio="0" notepos="0_4_30" code="6,)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="820.41423487544" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_30" ></text>
+<use x="856.7665480427" y="548" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_4_31" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="852.2665480427" y="586" dy="5.368" text-anchor="end" fill="#101010" font-size="16" font-family="Microsoft YaHei" xml:space="preserve" >2.</text>
+<text x="847.7665480427" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_31" ></text>
+<use x="875.00142348754" y="548" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_4_32" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="866.00142348754" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_32" >为</text>
+<text x="866.00142348754" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_32" ></text>
+<use x="893.23629893238" y="548" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_4_33" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="884.23629893238" y="586" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_33" >了</text>
+<text x="884.23629893238" y="614" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_4_33" ></text>
+<use x="923" y="548" xlink:href="#xunhuan_you" notepos="0_4_34" time="0" audio="" code="|y]" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="694" xlink:href="#shuzi_null" time="0" audio="" notepos="0_5_1" code="8" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="78.5" y="732" dy="5.368" text-anchor="end" fill="#101010" font-size="16" font-family="Microsoft YaHei" xml:space="preserve" >2.</text>
+<use x="109.74720357942" y="694" xlink:href="#xiaojiexian_none" notepos="0_5_2" time="0" audio="" code="|n[+'2'" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="109.74720357942" y="694" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_5_3" code="6(," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="100.74720357942" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_3" >浪</text>
+<text x="118.74720357942" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >。</text>
+<use x="138.40492170022" y="694" xlink:href="#yanyinfu" time="1" audio="" notepos="0_5_4" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="165.15212527964" y="694" xlink:href="#xiaojiexian" notepos="0_5_5" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="191.89932885906" y="694" xlink:href="#shuzi_b_6" time="1" audio="0" notepos="0_5_6" code="6,)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="220.55704697987" y="694" xlink:href="#yanyinfu" time="1" audio="" notepos="0_5_7" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="247.30425055928" y="694" xlink:href="#xiaojiexian" notepos="0_5_8" time="0" audio="" code="|]" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="274.0514541387" y="694" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_5_9" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="293.15659955257" y="694" xlink:href="#shuzi_b_7" time="0.5" audio="7" notepos="0_5_10" code="7/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="284.15659955257" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_10" >还</text>
+<use x="321.81431767338" y="694" xlink:href="#shuzi_b_6" time="0.75" audio="6" notepos="0_5_11" code="6./" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="312.81431767338" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_11" >有</text>
+<use x="350.47203579418" y="694" xlink:href="#shuzi_b_7" time="0.25" audio="7" notepos="0_5_12" code="7//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="341.47203579418" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_12" >还</text>
+<use x="377.2192393736" y="694" xlink:href="#xiaojiexian" notepos="0_5_13" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="403.96644295302" y="694" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_5_14" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="394.96644295302" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_14" >有</text>
+<text x="412.96644295302" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >，</text>
+<use x="432.62416107383" y="694" xlink:href="#yanyinfu" time="1" audio="" notepos="0_5_15" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="459.37136465324" y="694" xlink:href="#xiaojiexian" notepos="0_5_16" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="486.11856823266" y="694" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_5_17" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="514.77628635347" y="694" xlink:href="#shuzi_b_7" time="1" audio="7" notepos="0_5_18" code="7" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="505.77628635347" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_18" >为</text>
+<use x="543.43400447427" y="694" xlink:href="#shuzi_b_6" time="0.5" audio="6" notepos="0_5_19" code="6/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="534.43400447427" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_19" >了</text>
+<use x="570.18120805369" y="694" xlink:href="#xiaojiexian" notepos="0_5_20" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="596.92841163311" y="694" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_5_21" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="587.92841163311" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_21" >梦</text>
+<use x="616.03355704698" y="694" xlink:href="#shuzi_b_5" time="0.25" audio="5" notepos="0_5_22" code="5//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="607.03355704698" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_22" >中</text>
+<use x="635.13870246085" y="694" xlink:href="#shuzi_b_5" time="0.25" audio="5" notepos="0_5_23" code="5//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="626.13870246085" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_23" >的</text>
+<use x="667.61744966443" y="694" xlink:href="#shuzi_b_4" time="0.5" audio="4" notepos="0_5_24" code="4#/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="658.61744966443" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_24" >橄</text>
+<use x="686.7225950783" y="694" xlink:href="#shuzi_b_3" time="0.25" audio="3" notepos="0_5_25" code="3(//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="677.7225950783" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_25" >榄</text>
+<use x="705.82774049217" y="694" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_5_26" code="2//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="736.39597315436" y="694" xlink:href="#xiaojiexian" notepos="0_5_27" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="763.14317673378" y="694" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_5_28" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="754.14317673378" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_28" >树</text>
+<use x="791.80089485459" y="694" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_5_29" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="782.80089485459" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_29" >橄</text>
+<use x="810.90604026846" y="694" xlink:href="#shuzi_b_1" time="0.5" audio="1" notepos="0_5_30" code="1/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="801.90604026846" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_30" >榄</text>
+<use x="837.65324384787" y="694" xlink:href="#xiaojiexian" notepos="0_5_31" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="864.40044742729" y="694" xlink:href="#shuzi_b_2" time="1" audio="2" notepos="0_5_32" code="2" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="855.40044742729" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_5_32" >树</text>
+<text x="873.40044742729" y="732" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >。</text>
+<use x="893.0581655481" y="694" xlink:href="#yanyinfu" time="1" audio="" notepos="0_5_33" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="923" y="694" xlink:href="#xiaojiexian" notepos="0_5_34" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="800" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_6_1" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="109.85534591195" y="800" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_6_2" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="100.85534591195" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_2" >不</text>
+<use x="136.7106918239" y="800" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_6_3" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="127.7106918239" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_3" >要</text>
+<use x="161.77568134172" y="800" xlink:href="#xiaojiexian" notepos="0_6_4" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="186.84067085954" y="800" xlink:href="#shuzi_b_6" time="0.5" audio="6" notepos="0_6_5" code="6/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="177.84067085954" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_5" >问</text>
+<use x="204.74423480084" y="800" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_6_6" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="195.74423480084" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_6" >我</text>
+<use x="235.18029350105" y="800" xlink:href="#shuzi_b_4" time="0.5" audio="4" notepos="0_6_7" code="4#/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="226.18029350105" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_7" >从</text>
+<use x="253.08385744235" y="800" xlink:href="#shuzi_b_3" time="0.25" audio="3" notepos="0_6_8" code="3//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="244.08385744235" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_8" >哪</text>
+<use x="270.98742138365" y="800" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_6_9" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="261.98742138365" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_9" >里</text>
+<use x="299.63312368973" y="800" xlink:href="#xiaojiexian" notepos="0_6_10" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="324.69811320755" y="800" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_6_11" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="315.69811320755" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_11" >来</text>
+<use x="351.5534591195" y="800" xlink:href="#yanyinfu" time="1" audio="" notepos="0_6_12" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="376.61844863732" y="800" xlink:href="#xiaojiexian" notepos="0_6_13" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="401.68343815514" y="800" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_6_14" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="428.53878406709" y="800" xlink:href="#shuzi_b_1" time="1" audio="1" notepos="0_6_15" code="1" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="419.53878406709" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_15" >我</text>
+<use x="455.39412997904" y="800" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_6_16" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="446.39412997904" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_16" >的</text>
+<use x="480.45911949686" y="800" xlink:href="#xiaojiexian" notepos="0_6_17" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="505.52410901468" y="800" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_6_18" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="496.52410901468" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_18" >故</text>
+<use x="532.37945492662" y="800" xlink:href="#shuzi_b_5" time="1" audio="5" notepos="0_6_19" code="5" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="523.37945492662" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_19" >乡</text>
+<use x="559.23480083857" y="800" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_6_20" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="550.23480083857" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_20" >在</text>
+<use x="584.29979035639" y="800" xlink:href="#xiaojiexian" notepos="0_6_21" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="609.36477987421" y="800" xlink:href="#shuzi_b_7" time="1.5" audio="7" notepos="0_6_22" code="7(." xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="600.36477987421" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_22" >远</text>
+<use x="645.17190775681" y="800" xlink:href="#shuzi_b_1" time="0.25" audio="1'" notepos="0_6_23" code="1'//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="663.07547169811" y="800" xlink:href="#shuzi_b_7" time="0.25" audio="7" notepos="0_6_24" code="7//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="688.14046121593" y="800" xlink:href="#xiaojiexian" notepos="0_6_25" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="713.20545073375" y="800" xlink:href="#shuzi_b_6" time="1" audio="6" notepos="0_6_26" code="6(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="704.20545073375" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_26" >方</text>
+<text x="722.20545073375" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >。</text>
+<use x="740.0607966457" y="800" xlink:href="#yanyinfu" time="1" audio="" notepos="0_6_27" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="765.12578616352" y="800" xlink:href="#xiaojiexian" notepos="0_6_28" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="790.19077568134" y="800" xlink:href="#shuzi_b_6" time="1" audio="6" notepos="0_6_29" code="6" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="781.19077568134" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_29" ></text>
+<use x="817.04612159329" y="800" xlink:href="#yanyinfu" time="1" audio="" notepos="0_6_30" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="842.11111111111" y="800" xlink:href="#xiaojiexian" notepos="0_6_31" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="867.17610062893" y="800" xlink:href="#shuzi_b_6" time="1" audio="0" notepos="0_6_32" code="6)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="858.17610062893" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_32" ></text>
+<use x="894.03144654088" y="800" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_6_33" code="0" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="885.03144654088" y="838" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_6_33" ></text>
+<use x="923" y="800" xlink:href="#xiaojiexian" notepos="0_6_34" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="906" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_7_1" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="102.49771689498" y="906" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_7_2" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="93.497716894977" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_2" >为</text>
+<use x="131.74429223744" y="906" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_7_3" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="122.74429223744" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_3" >什</text>
+<use x="151.24200913242" y="906" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_7_4" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="142.24200913242" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_4" >么</text>
+<use x="178.53881278539" y="906" xlink:href="#xiaojiexian" notepos="0_7_5" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="205.83561643836" y="906" xlink:href="#shuzi_b_6" time="1" audio="6" notepos="0_7_6" code="6" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="196.83561643836" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_6" >流</text>
+<use x="235.08219178082" y="906" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_7_7" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="226.08219178082" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_7" >浪</text>
+<text x="244.08219178082" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >？</text>
+<use x="262.37899543379" y="906" xlink:href="#xiaojiexian" notepos="0_7_8" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="289.67579908676" y="906" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_7_9" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="309.17351598174" y="906" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_7_10" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="300.17351598174" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_10" >为</text>
+<use x="338.4200913242" y="906" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_7_11" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="329.4200913242" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_11" >什</text>
+<use x="357.91780821918" y="906" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_7_12" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="348.91780821918" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_12" >么</text>
+<use x="385.21461187215" y="906" xlink:href="#xiaojiexian" notepos="0_7_13" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="412.51141552511" y="906" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_7_14" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="403.51141552511" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_14" >流</text>
+<use x="441.75799086758" y="906" xlink:href="#shuzi_b_6" time="1" audio="6" notepos="0_7_15" code="6" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="432.75799086758" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_15" >浪</text>
+<use x="469.05479452055" y="906" xlink:href="#xiaojiexian" notepos="0_7_16" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="496.35159817352" y="906" xlink:href="#shuzi_b_7" time="1.5" audio="7" notepos="0_7_17" code="7(." xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="487.35159817352" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_17" >远</text>
+<use x="535.34703196347" y="906" xlink:href="#shuzi_b_1" time="0.25" audio="1'" notepos="0_7_18" code="1'//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="554.84474885845" y="906" xlink:href="#shuzi_b_7" time="0.25" audio="7" notepos="0_7_19" code="7//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="582.14155251142" y="906" xlink:href="#xiaojiexian" notepos="0_7_20" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="609.43835616438" y="906" xlink:href="#shuzi_b_6" time="1" audio="6" notepos="0_7_21" code="6(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="600.43835616438" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_21" >方</text>
+<text x="618.43835616438" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >？</text>
+<use x="638.68493150685" y="906" xlink:href="#yanyinfu" time="1" audio="" notepos="0_7_22" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="665.98173515982" y="906" xlink:href="#xiaojiexian" notepos="0_7_23" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="693.27853881279" y="906" xlink:href="#shuzi_b_6" time="1" audio="0" notepos="0_7_24" code="6)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="722.52511415525" y="906" xlink:href="#yanyinfu" time="1" audio="" notepos="0_7_25" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="749.82191780822" y="906" xlink:href="#xiaojiexian" notepos="0_7_26" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="777.11872146119" y="906" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_7_27" code="0" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="806.36529680365" y="906" xlink:href="#shuzi_b_5" time="1" audio="5" notepos="0_7_28" code="5" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="797.36529680365" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_28" >为</text>
+<use x="833.66210045662" y="906" xlink:href="#xiaojiexian" notepos="0_7_29" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="860.95890410959" y="906" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_7_30" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="851.95890410959" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_30" >了</text>
+<use x="890.20547945205" y="906" xlink:href="#shuzi_b_6" time="1" audio="6" notepos="0_7_31" code="6" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="881.20547945205" y="944" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_7_31" >我</text>
+<use x="923" y="906" xlink:href="#xiaojiexian" notepos="0_7_32" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="1012" xlink:href="#shuzi_b_7" time="1" audio="7" notepos="0_8_1" code="7(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="74" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_1" >梦</text>
+<use x="113.94202898551" y="1012" xlink:href="#shuzi_b_6" time="1" audio="6" notepos="0_8_2" code="6)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="142.82125603865" y="1012" xlink:href="#xiaojiexian" notepos="0_8_3" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="171.70048309179" y="1012" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_8_4" code="3(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="162.70048309179" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_4" >中</text>
+<use x="202.64251207729" y="1012" xlink:href="#shuzi_b_2" time="1" audio="2" notepos="0_8_5" code="2)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="231.52173913043" y="1012" xlink:href="#xiaojiexian" notepos="0_8_6" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="260.40096618357" y="1012" xlink:href="#shuzi_b_1" time="1" audio="1" notepos="0_8_7" code="1(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="251.40096618357" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_7" >的</text>
+<use x="291.34299516908" y="1012" xlink:href="#yanyinfu" time="1" audio="" notepos="0_8_8" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="320.22222222222" y="1012" xlink:href="#xiaojiexian" notepos="0_8_9" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="349.10144927536" y="1012" xlink:href="#shuzi_b_1" time="1" audio="0" notepos="0_8_10" code="1)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="380.04347826087" y="1012" xlink:href="#yanyinfu" time="1" audio="" notepos="0_8_11" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="408.92270531401" y="1012" xlink:href="#xiaojiexian" notepos="0_8_12" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="437.80193236715" y="1012" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_8_13" code="0" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="468.74396135266" y="1012" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_8_14" code="7,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="459.74396135266" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_14" >橄</text>
+<use x="489.37198067633" y="1012" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_8_15" code="2(//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="480.37198067633" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_15" >榄</text>
+<use x="510" y="1012" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_8_16" code="1//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="538.87922705314" y="1012" xlink:href="#xiaojiexian" notepos="0_8_17" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="567.75845410628" y="1012" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_8_18" code="6(," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="558.75845410628" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_18" >树</text>
+<text x="576.75845410628" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >。</text>
+<use x="598.70048309179" y="1012" xlink:href="#yanyinfu" time="1" audio="" notepos="0_8_19" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="627.57971014493" y="1012" xlink:href="#xiaojiexian" notepos="0_8_20" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="656.45893719807" y="1012" xlink:href="#shuzi_b_6" time="1" audio="0" notepos="0_8_21" code="6,)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="687.40096618357" y="1012" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_8_22" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="708.02898550725" y="1012" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_8_23" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="699.02898550725" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_23" >不</text>
+<use x="728.65700483092" y="1012" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_8_24" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="719.65700483092" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_24" >要</text>
+<use x="757.53623188406" y="1012" xlink:href="#xiaojiexian" notepos="0_8_25" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="786.4154589372" y="1012" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_8_26" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="777.4154589372" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_26" >问</text>
+<use x="807.04347826087" y="1012" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_8_27" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="798.04347826087" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_27" >我</text>
+<use x="842.11111111111" y="1012" xlink:href="#shuzi_b_4" time="0.5" audio="4" notepos="0_8_28" code="4#/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="833.11111111111" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_28" >从</text>
+<use x="862.73913043478" y="1012" xlink:href="#shuzi_b_3" time="0.25" audio="3" notepos="0_8_29" code="3//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="853.73913043478" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_29" >哪</text>
+<use x="883.36714975845" y="1012" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_8_30" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="874.36714975845" y="1050" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_8_30" >里</text>
+<use x="923" y="1012" xlink:href="#xiaojiexian" notepos="0_8_31" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="1118" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_9_1" code="3(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="74" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_1" >来</text>
+<text x="92" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >，</text>
+<use x="111.21585903084" y="1118" xlink:href="#yanyinfu" time="1" audio="" notepos="0_9_2" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="137.55066079295" y="1118" xlink:href="#xiaojiexian" notepos="0_9_3" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="163.88546255507" y="1118" xlink:href="#shuzi_b_3" time="1" audio="0" notepos="0_9_4" code="3)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="192.1013215859" y="1118" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_9_5" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="210.91189427313" y="1118" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_9_6" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="201.91189427313" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_6" >我</text>
+<use x="229.72246696035" y="1118" xlink:href="#shuzi_b_6" time="0.25" audio="6" notepos="0_9_7" code="6//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="220.72246696035" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_7" >的</text>
+<use x="256.05726872247" y="1118" xlink:href="#xiaojiexian" notepos="0_9_8" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="282.39207048458" y="1118" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_9_9" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="273.39207048458" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_9" >故</text>
+<use x="301.20264317181" y="1118" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_9_10" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="292.20264317181" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_10" >乡</text>
+<use x="333.18061674009" y="1118" xlink:href="#shuzi_b_4" time="0.5" audio="4" notepos="0_9_11" code="4#/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="324.18061674009" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_11" >在</text>
+<use x="351.99118942731" y="1118" xlink:href="#shuzi_b_3" time="0.25" audio="3" notepos="0_9_12" code="3(//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="342.99118942731" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_12" >远</text>
+<use x="370.80176211454" y="1118" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_9_13" code="2//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="400.8986784141" y="1118" xlink:href="#xiaojiexian" notepos="0_9_14" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="427.23348017621" y="1118" xlink:href="#shuzi_b_1" time="1" audio="1" notepos="0_9_15" code="1(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="418.23348017621" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_15" >方</text>
+<text x="436.23348017621" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >。</text>
+<use x="455.44933920705" y="1118" xlink:href="#yanyinfu" time="1" audio="" notepos="0_9_16" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="481.78414096916" y="1118" xlink:href="#xiaojiexian" notepos="0_9_17" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="508.11894273128" y="1118" xlink:href="#shuzi_b_1" time="1" audio="0" notepos="0_9_18" code="1)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="536.33480176211" y="1118" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_9_19" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="555.14537444934" y="1118" xlink:href="#shuzi_b_6" time="0.5" audio="6" notepos="0_9_20" code="6/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="546.14537444934" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_20" >为</text>
+<use x="581.48017621145" y="1118" xlink:href="#xiaojiexian" notepos="0_9_21" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="607.81497797357" y="1118" xlink:href="#shuzi_b_5" time="0.5" audio="5" notepos="0_9_22" code="5/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="598.81497797357" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_22" >什</text>
+<use x="626.62555066079" y="1118" xlink:href="#shuzi_b_6" time="0.5" audio="6" notepos="0_9_23" code="6/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="617.62555066079" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_23" >么</text>
+<use x="654.84140969163" y="1118" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_9_24" code="3(/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="645.84140969163" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_24" >流</text>
+<use x="673.65198237885" y="1118" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_9_25" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="692.46255506608" y="1118" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_9_26" code="2//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="718.79735682819" y="1118" xlink:href="#xiaojiexian" notepos="0_9_27" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="745.13215859031" y="1118" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_9_28" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="736.13215859031" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_28" >浪</text>
+<text x="754.13215859031" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >，</text>
+<use x="773.34801762115" y="1118" xlink:href="#yanyinfu" time="1" audio="" notepos="0_9_29" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="799.68281938326" y="1118" xlink:href="#xiaojiexian" notepos="0_9_30" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="826.01762114537" y="1118" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_9_31" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="844.8281938326" y="1118" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_9_32" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="835.8281938326" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_32" >流</text>
+<use x="873.04405286344" y="1118" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_9_33" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="864.04405286344" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_33" >浪</text>
+<use x="891.85462555066" y="1118" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_9_34" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="882.85462555066" y="1156" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_9_34" >远</text>
+<use x="923" y="1118" xlink:href="#xiaojiexian" notepos="0_9_35" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="1224" xlink:href="#shuzi_b_1" time="1" audio="1" notepos="0_10_1" code="1(" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="74" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_1" >方</text>
+<text x="92" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >，</text>
+<use x="106.85474860335" y="1224" xlink:href="#yanyinfu" time="1" audio="" notepos="0_10_2" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="129.11918063315" y="1224" xlink:href="#xiaojiexian" notepos="0_10_3" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="151.38361266294" y="1224" xlink:href="#shuzi_b_1" time="1" audio="0" notepos="0_10_4" code="1)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="175.23836126629" y="1224" xlink:href="#yanyinfu" time="1" audio="" notepos="0_10_5" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="197.50279329609" y="1224" xlink:href="#xiaojiexian" notepos="0_10_6" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="219.76722532588" y="1224" xlink:href="#shuzi_b_0" time="1" audio="0" notepos="0_10_7" code="0" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="243.62197392924" y="1224" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_10_8" code="7(,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="234.62197392924" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_8" >流</text>
+<use x="259.5251396648" y="1224" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_10_9" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="275.42830540037" y="1224" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_10_10" code="1//)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="297.69273743017" y="1224" xlink:href="#xiaojiexian" notepos="0_10_11" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="319.95716945996" y="1224" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_10_12" code="6(," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="310.95716945996" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_12" >浪</text>
+<text x="328.95716945996" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" >。</text>
+<use x="343.81191806331" y="1224" xlink:href="#yanyinfu" time="1" audio="" notepos="0_10_13" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="366.07635009311" y="1224" xlink:href="#xiaojiexian" notepos="0_10_14" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="388.34078212291" y="1224" xlink:href="#shuzi_b_6" time="1" audio="0" notepos="0_10_15" code="6,)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="379.34078212291" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_15" ></text>
+<use x="412.19553072626" y="1224" xlink:href="#yanyinfu" time="1" audio="" notepos="0_10_16" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="434.45996275605" y="1224" xlink:href="#xiaojiexian" notepos="0_10_17" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="464.67597765363" y="1224" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_10_18" code="3/&zkh" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="455.67597765363" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_18" ></text>
+<use x="480.5791433892" y="1224" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_10_19" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="471.5791433892" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_19" ></text>
+<use x="496.48230912477" y="1224" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_10_20" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="487.48230912477" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_20" ></text>
+<use x="528.2886405959" y="1224" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_10_21" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="519.2886405959" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_21" ></text>
+<use x="550.5530726257" y="1224" xlink:href="#xiaojiexian" notepos="0_10_22" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="572.81750465549" y="1224" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_10_23" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="563.81750465549" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_23" ></text>
+<use x="588.72067039106" y="1224" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_10_24" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="579.72067039106" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_24" ></text>
+<use x="604.62383612663" y="1224" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_10_25" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="595.62383612663" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_25" ></text>
+<use x="628.47858472998" y="1224" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_10_26" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="619.47858472998" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_26" ></text>
+<use x="647.56238361266" y="1224" xlink:href="#shuzi_b_4" time="0.25" audio="4" notepos="0_10_27" code="4#//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="638.56238361266" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_27" ></text>
+<use x="663.46554934823" y="1224" xlink:href="#shuzi_b_3" time="0.25" audio="3" notepos="0_10_28" code="3//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="654.46554934823" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_28" ></text>
+<use x="688.91061452514" y="1224" xlink:href="#xiaojiexian" notepos="0_10_29" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="711.17504655493" y="1224" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_10_30" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="702.17504655493" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_30" ></text>
+<use x="727.0782122905" y="1224" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_10_31" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="718.0782122905" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_31" ></text>
+<use x="742.98137802607" y="1224" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_10_32" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="733.98137802607" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_32" ></text>
+<use x="766.83612662942" y="1224" xlink:href="#shuzi_b_2" time="1" audio="2" notepos="0_10_33" code="2" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="757.83612662942" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_33" ></text>
+<use x="789.10055865922" y="1224" xlink:href="#xiaojiexian" notepos="0_10_34" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="811.36499068901" y="1224" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_10_35" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="802.36499068901" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_35" ></text>
+<use x="827.26815642458" y="1224" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_10_36" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="818.26815642458" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_36" ></text>
+<use x="843.17132216015" y="1224" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_10_37" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="834.17132216015" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_37" ></text>
+<use x="867.0260707635" y="1224" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_10_38" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="858.0260707635" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_38" ></text>
+<use x="882.92923649907" y="1224" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_10_39" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="873.92923649907" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_39" ></text>
+<use x="898.83240223464" y="1224" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_10_40" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<text x="889.83240223464" y="1262" dy="6.039" fill="#101010" font-size="18" font-family="Microsoft YaHei" cipos="0_10_40" ></text>
+<use x="923" y="1224" xlink:href="#xiaojiexian" notepos="0_10_41" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="1330" xlink:href="#shuzi_b_1" time="0.5" audio="1" notepos="0_11_1" code="1/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="105.27826086957" y="1330" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_11_2" code="6," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="127.55652173913" y="1330" xlink:href="#shuzi_b_1" time="0.5" audio="1" notepos="0_11_3" code="1/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="148.34956521739" y="1330" xlink:href="#xiaojiexian" notepos="0_11_4" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="169.14260869565" y="1330" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_11_5" code="7,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="191.42086956522" y="1330" xlink:href="#shuzi_b_5" time="1" audio="5," notepos="0_11_6" code="5," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="213.69913043478" y="1330" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_11_7" code="7,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="234.49217391304" y="1330" xlink:href="#xiaojiexian" notepos="0_11_8" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="255.2852173913" y="1330" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_11_9" code="6," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="277.56347826087" y="1330" xlink:href="#yanyinfu" time="1" audio="" notepos="0_11_10" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="298.35652173913" y="1330" xlink:href="#xiaojiexian" notepos="0_11_11" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="319.14956521739" y="1330" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_11_12" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="334.00173913043" y="1330" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_11_13" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="348.85391304348" y="1330" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_11_14" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="371.13217391304" y="1330" xlink:href="#shuzi_b_3" time="1" audio="3" notepos="0_11_15" code="3" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="391.9252173913" y="1330" xlink:href="#xiaojiexian" notepos="0_11_16" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="415.68869565217" y="1330" xlink:href="#shuzi_b_4" time="1" audio="4" notepos="0_11_17" code="4#" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="440.93739130435" y="1330" xlink:href="#shuzi_b_2" time="0.5" audio="2" notepos="0_11_18" code="2/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="455.78956521739" y="1330" xlink:href="#shuzi_b_4" time="0.5" audio="4" notepos="0_11_19" code="4/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="476.58260869565" y="1330" xlink:href="#xiaojiexian" notepos="0_11_20" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="497.37565217391" y="1330" xlink:href="#shuzi_b_3" time="0.5" audio="3" notepos="0_11_21" code="3/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="512.22782608696" y="1330" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_11_22" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="527.08" y="1330" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_11_23" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="549.35826086957" y="1330" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_11_24" code="6(," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="570.15130434783" y="1330" xlink:href="#xiaojiexian" notepos="0_11_25" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="590.94434782609" y="1330" xlink:href="#shuzi_b_6" time="1" audio="0" notepos="0_11_26" code="6,)" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="613.22260869565" y="1330" xlink:href="#shuzi_b_0" time="0.25" audio="0" notepos="0_11_27" code="0//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="628.0747826087" y="1330" xlink:href="#shuzi_b_2" time="0.25" audio="2" notepos="0_11_28" code="2//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="642.92695652174" y="1330" xlink:href="#shuzi_b_1" time="0.25" audio="1" notepos="0_11_29" code="1//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="657.77913043478" y="1330" xlink:href="#shuzi_b_7" time="0.25" audio="7," notepos="0_11_30" code="7,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="678.57217391304" y="1330" xlink:href="#xiaojiexian" notepos="0_11_31" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="699.3652173913" y="1330" xlink:href="#shuzi_b_1" time="1" audio="1" notepos="0_11_32" code="1" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="721.64347826087" y="1330" xlink:href="#yanyinfu" time="1" audio="" notepos="0_11_33" code="-" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="742.43652173913" y="1330" xlink:href="#xiaojiexian" notepos="0_11_34" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="763.22956521739" y="1330" xlink:href="#shuzi_b_0" time="0.5" audio="0" notepos="0_11_35" code="0/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="778.08173913043" y="1330" xlink:href="#shuzi_b_1" time="0.5" audio="1" notepos="0_11_36" code="1/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="800.36" y="1330" xlink:href="#shuzi_b_7" time="0.5" audio="7," notepos="0_11_37" code="7,/" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="815.21217391304" y="1330" xlink:href="#shuzi_b_6" time="0.25" audio="6," notepos="0_11_38" code="6,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="830.06434782609" y="1330" xlink:href="#shuzi_b_5" time="0.25" audio="5," notepos="0_11_39" code="5,//" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="850.85739130435" y="1330" xlink:href="#xiaojiexian" notepos="0_11_40" time="0" audio="" code="|" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="871.65043478261" y="1330" xlink:href="#shuzi_b_6" time="1" audio="6," notepos="0_11_41" code="6," xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="893.92869565217" y="1330" xlink:href="#yanyinfu" time="1" audio="" notepos="0_11_42" code="-&ykh" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="923" y="1330" xlink:href="#jieshufu" notepos="0_11_43" time="0" audio="" code="|j" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<line x1="239.66666666667" y1="259" x2="285.55555555556" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="256.61111111111" y1="262" x2="285.55555555556" y2="262" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="346.41666666667" y1="259" x2="392.30555555556" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="363.36111111111" y1="262" x2="392.30555555556" y2="262" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="405.72222222222" y1="259" x2="455" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="426.05555555556" y1="262" x2="455" y2="262" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="493.83333333333" y1="259" x2="539.72222222222" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="510.77777777778" y1="262" x2="539.72222222222" y2="262" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="600.58333333333" y1="259" x2="646.47222222222" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="617.52777777778" y1="262" x2="646.47222222222" y2="262" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="659.88888888889" y1="259" x2="705.77777777778" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="676.83333333333" y1="262" x2="705.77777777778" y2="262" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="741.22222222222" y1="259" x2="753.22222222222" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="792.05555555556" y1="259" x2="804.05555555556" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="839.5" y1="259" x2="851.5" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="890.33333333333" y1="259" x2="902.33333333333" y2="259" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="157.88546255507" y1="337" x2="207.50660792952" y2="337" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="176.69603524229" y1="340" x2="207.50660792952" y2="340" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="312.13215859031" y1="337" x2="342.94273127753" y2="337" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="383.61233480176" y1="337" x2="433.23348017621" y2="337" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="402.42290748899" y1="340" x2="433.23348017621" y2="340" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="530.33480176211" y1="337" x2="598.76651982379" y2="337" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="530.33480176211" y1="340" x2="598.76651982379" y2="340" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="720.32158590308" y1="337" x2="751.13215859031" y2="337" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="767.34801762115" y1="337" x2="816.96916299559" y2="337" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="786.15859030837" y1="340" x2="816.96916299559" y2="340" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="113.42654028436" y1="415" x2="173.99526066351" y2="415" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="131.63981042654" y1="418" x2="173.99526066351" y2="418" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="225.1345971564" y1="415" x2="255.34786729858" y2="415" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="274.31042654028" y1="415" x2="322.73696682464" y2="415" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="292.52369668246" y1="418" x2="322.73696682464" y2="418" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="503.39289099526" y1="415" x2="551.81943127962" y2="415" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="521.60616113744" y1="418" x2="551.81943127962" y2="418" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="590.81658767773" y1="415" x2="621.02985781991" y2="415" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="639.99241706161" y1="415" x2="688.41895734597" y2="415" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="658.20568720379" y1="418" x2="688.41895734597" y2="418" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="869.07488151659" y1="415" x2="899.28815165877" y2="415" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="104.35231316726" y1="561" x2="134.5871886121" y2="561" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="149.93950177936" y1="561" x2="198.40925266904" y2="561" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="168.1743772242" y1="564" x2="198.40925266904" y2="564" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="358.42491103203" y1="561" x2="388.65978647687" y2="561" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="404.01209964413" y1="561" x2="434.24697508897" y2="561" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="657.4768683274" y1="561" x2="705.94661921708" y2="561" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="675.71174377224" y1="564" x2="705.94661921708" y2="564" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="850.7665480427" y1="561" x2="899.23629893238" y2="561" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="869.00142348754" y1="564" x2="899.23629893238" y2="564" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="268.0514541387" y1="707" x2="299.15659955257" y2="707" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="315.81431767338" y1="707" x2="356.47203579418" y2="707" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="344.47203579418" y1="710" x2="356.47203579418" y2="710" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="480.11856823266" y1="707" x2="492.11856823266" y2="707" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="537.43400447427" y1="707" x2="549.43400447427" y2="707" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="590.92841163311" y1="707" x2="641.13870246085" y2="707" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="610.03355704698" y1="710" x2="641.13870246085" y2="710" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="661.61744966443" y1="707" x2="711.82774049217" y2="707" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="680.7225950783" y1="710" x2="711.82774049217" y2="710" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="785.80089485459" y1="707" x2="816.90604026846" y2="707" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="77" y1="813" x2="89" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="130.7106918239" y1="813" x2="142.7106918239" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="180.84067085954" y1="813" x2="210.74423480084" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="229.18029350105" y1="813" x2="276.98742138365" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="247.08385744235" y1="816" x2="276.98742138365" y2="816" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="395.68343815514" y1="813" x2="407.68343815514" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="449.39412997904" y1="813" x2="461.39412997904" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="499.52410901468" y1="813" x2="511.52410901468" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="553.23480083857" y1="813" x2="565.23480083857" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="639.17190775681" y1="813" x2="669.07547169811" y2="813" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="639.17190775681" y1="816" x2="669.07547169811" y2="816" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="77" y1="919" x2="108.49771689498" y2="919" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="125.74429223744" y1="919" x2="157.24200913242" y2="919" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="283.67579908676" y1="919" x2="315.17351598174" y2="919" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="332.4200913242" y1="919" x2="363.91780821918" y2="919" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="529.34703196347" y1="919" x2="560.84474885845" y2="919" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="529.34703196347" y1="922" x2="560.84474885845" y2="922" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="462.74396135266" y1="1025" x2="516" y2="1025" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="483.37198067633" y1="1028" x2="516" y2="1028" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="681.40096618357" y1="1025" x2="734.65700483092" y2="1025" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="702.02898550725" y1="1028" x2="734.65700483092" y2="1028" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="780.4154589372" y1="1025" x2="813.04347826087" y2="1025" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="836.11111111111" y1="1025" x2="889.36714975845" y2="1025" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="856.73913043478" y1="1028" x2="889.36714975845" y2="1028" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="186.1013215859" y1="1131" x2="235.72246696035" y2="1131" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="204.91189427313" y1="1134" x2="235.72246696035" y2="1134" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="276.39207048458" y1="1131" x2="307.20264317181" y2="1131" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="327.18061674009" y1="1131" x2="376.80176211454" y2="1131" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="345.99118942731" y1="1134" x2="376.80176211454" y2="1134" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="530.33480176211" y1="1131" x2="561.14537444934" y2="1131" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="601.81497797357" y1="1131" x2="632.62555066079" y2="1131" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="648.84140969163" y1="1131" x2="698.46255506608" y2="1131" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="667.65198237885" y1="1134" x2="698.46255506608" y2="1134" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="820.01762114537" y1="1131" x2="850.8281938326" y2="1131" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="867.04405286344" y1="1131" x2="897.85462555066" y2="1131" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="237.62197392924" y1="1237" x2="281.42830540037" y2="1237" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="253.5251396648" y1="1240" x2="281.42830540037" y2="1240" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="458.67597765363" y1="1237" x2="502.48230912477" y2="1237" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="474.5791433892" y1="1240" x2="502.48230912477" y2="1240" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="566.81750465549" y1="1237" x2="610.62383612663" y2="1237" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="582.72067039106" y1="1240" x2="610.62383612663" y2="1240" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="622.47858472998" y1="1237" x2="669.46554934823" y2="1237" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="641.56238361266" y1="1240" x2="669.46554934823" y2="1240" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="705.17504655493" y1="1237" x2="748.98137802607" y2="1237" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="721.0782122905" y1="1240" x2="748.98137802607" y2="1240" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="805.36499068901" y1="1237" x2="849.17132216015" y2="1237" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="821.26815642458" y1="1240" x2="849.17132216015" y2="1240" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="861.0260707635" y1="1237" x2="904.83240223464" y2="1237" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="876.92923649907" y1="1240" x2="904.83240223464" y2="1240" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="77" y1="1343" x2="89" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="121.55652173913" y1="1343" x2="133.55652173913" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="163.14260869565" y1="1343" x2="175.14260869565" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="207.69913043478" y1="1343" x2="219.69913043478" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="313.14956521739" y1="1343" x2="354.85391304348" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="328.00173913043" y1="1346" x2="354.85391304348" y2="1346" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="434.93739130435" y1="1343" x2="461.78956521739" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="491.37565217391" y1="1343" x2="533.08" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="506.22782608696" y1="1346" x2="533.08" y2="1346" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="607.22260869565" y1="1343" x2="663.77913043478" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="607.22260869565" y1="1346" x2="663.77913043478" y2="1346" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="757.22956521739" y1="1343" x2="784.08173913043" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="794.36" y1="1343" x2="836.06434782609" y2="1343" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<line x1="809.21217391304" y1="1346" x2="836.06434782609" y2="1346" data-type="jianshixian" stroke-width="2" stroke="#1b1b1b" ></line>
+<use x="91.472222222222" y="246" xlink:href="#kuohu_zuo" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="432.05555555556" y="246" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="516.77777777778" y="255" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="623.52777777778" y="255" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="699.77777777778" y="255" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="772.63888888889" y="247" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="845.5" y="251" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="870.91666666667" y="247" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="896.33333333333" y="251" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="325" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="286.15418502203" y="324" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="427.23348017621" y="333" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="455.44933920705" y="325" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="508.11894273128" y="325" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="592.76651982379" y="333" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="773.34801762115" y="329" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="792.15859030837" y="333" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="810.96916299559" y="333" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="863.63876651982" y="325" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="83" y="402" xlink:href="#kuohu_you" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="280.31042654028" y="402" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="645.99241706161" y="402" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="663.4768683274" y="553" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="751.00427046263" y="549" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="829.41423487544" y="549" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="109.74720357942" y="695" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="191.89932885906" y="695" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="321.81431767338" y="694" xlink:href="#fudian" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="667.61744966443" y="694" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="235.18029350105" y="800" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="609.36477987421" y="800" xlink:href="#fudian" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="645.17190775681" y="800" xlink:href="#yingao_gao" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="496.35159817352" y="906" xlink:href="#fudian" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="535.34703196347" y="906" xlink:href="#yingao_gao" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="468.74396135266" y="1017" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="567.75845410628" y="1013" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="656.45893719807" y="1013" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="842.11111111111" y="1012" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="333.18061674009" y="1118" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="243.62197392924" y="1229" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="319.95716945996" y="1225" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="388.34078212291" y="1225" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="464.67597765363" y="1224" xlink:href="#kuohu_zuo" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="647.56238361266" y="1224" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="727.0782122905" y="1233" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="827.26815642458" y="1233" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="898.83240223464" y="1233" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="105.27826086957" y="1331" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="169.14260869565" y="1335" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="191.42086956522" y="1331" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="213.69913043478" y="1335" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="255.2852173913" y="1331" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="415.68869565217" y="1330" xlink:href="#bianyinfu_sheng" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="527.08" y="1339" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="549.35826086957" y="1331" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="590.94434782609" y="1331" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="657.77913043478" y="1339" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="800.36" y="1335" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="815.21217391304" y="1339" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="830.06434782609" y="1339" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="871.65043478261" y="1331" xlink:href="#yingao_di" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="893.92869565217" y="1330" xlink:href="#kuohu_you" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<path d="M 560.13888888889,230 C 573.37222222222,220,592.35,220,605.58333333333,230 M 605.58333333333,230 C  592.35,221,573.37222222222,221,560.13888888889,230" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 456.44933920705,308 C 471.25022026432,298,492.31806167401,298,507.11894273128,308 M 507.11894273128,308 C  492.31806167401,299,471.25022026432,299,456.44933920705,308" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<use x="383.37677725118" y="376.05" xlink:href="#lianyinxian_zuo" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="470.07298578199" y="376.05" xlink:href="#lianyinxian_you" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<line x1="384.17677725118" y1="376.8" x2="471.07298578199" y2="376.8" stroke-width="1.2" stroke="#1b1b1b" fill="none" ></line>
+<path d="M 665.20568720379,386 C 669.66966824645,376,676.95497630332,376,681.41895734597,386 M 681.41895734597,386 C  676.95497630332,377,669.66966824645,377,665.20568720379,386" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<use x="749.05876777251" y="376.05" xlink:href="#lianyinxian_zuo" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="835.75497630332" y="376.05" xlink:href="#lianyinxian_you" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<line x1="749.85876777251" y1="376.8" x2="836.75497630332" y2="376.8" stroke-width="1.2" stroke="#1b1b1b" fill="none" ></line>
+<path d="M 156.93950177936,532 C 166.88042704626,522,181.46832740214,522,191.40925266904,532 M 191.40925266904,532 C  181.46832740214,523,166.88042704626,523,156.93950177936,532" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 480.30462633452,532 C 502.82761565836,522,534.19160142349,522,556.71459074733,532 M 556.71459074733,532 C  534.19160142349,523,502.82761565836,523,480.30462633452,532" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 664.4768683274,532 C 674.41779359431,522,689.00569395018,522,698.94661921708,532 M 698.94661921708,532 C  689.00569395018,523,674.41779359431,523,664.4768683274,532" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 752.00427046263,532 C 774.52725978648,522,805.8912455516,522,828.41423487544,532 M 828.41423487544,532 C  805.8912455516,523,774.52725978648,523,752.00427046263,532" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 110.74720357942,678 C 134.39284116331,668,167.25369127517,668,190.89932885906,678 M 190.89932885906,678 C  167.25369127517,669,134.39284116331,669,110.74720357942,678" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 687.7225950783,678 C 692.45413870246,668,700.09619686801,668,704.82774049217,678 M 704.82774049217,678 C  700.09619686801,669,692.45413870246,669,687.7225950783,678" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 610.36477987421,784 C 625.47798742138,774,646.96226415094,774,662.07547169811,784 M 662.07547169811,784 C  646.96226415094,775,625.47798742138,775,610.36477987421,784" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<use x="725.20545073375" y="774.05" xlink:href="#lianyinxian_zuo" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<use x="855.17610062893" y="774.05" xlink:href="#lianyinxian_you" xmlns:xlink="http://www.w3.org/1999/xlink" ></use>
+<line x1="726.00545073375" y1="774.8" x2="856.17610062893" y2="774.8" stroke-width="1.2" stroke="#1b1b1b" fill="none" ></line>
+<path d="M 497.35159817352,890 C 513.899543379,880,537.29680365297,880,553.84474885845,890 M 553.84474885845,890 C  537.29680365297,881,513.899543379,881,497.35159817352,890" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 610.43835616438,890 C 634.5904109589,880,668.12648401826,880,692.27853881279,890 M 692.27853881279,890 C  668.12648401826,881,634.5904109589,881,610.43835616438,890" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 84,996 C 92.282608695652,986,104.65942028986,986,112.94202898551,996 M 112.94202898551,996 C  104.65942028986,987,92.282608695652,987,84,996" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 172.70048309179,996 C 180.98309178744,986,193.35990338164,986,201.64251207729,996 M 201.64251207729,996 C  193.35990338164,987,180.98309178744,987,172.70048309179,996" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 261.40096618357,996 C 287.01111111111,986,322.49130434783,986,348.10144927536,996 M 348.10144927536,996 C  322.49130434783,987,287.01111111111,987,261.40096618357,996" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 490.37198067633,996 C 495.56038647343,986,503.8115942029,986,509,996 M 509,996 C  503.8115942029,987,495.56038647343,987,490.37198067633,996" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 568.75845410628,996 C 594.36859903382,986,629.84879227053,986,655.45893719807,996 M 655.45893719807,996 C  629.84879227053,987,594.36859903382,987,568.75845410628,996" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 84,1102 C 107.26563876652,1092,139.61982378855,1092,162.88546255507,1102 M 162.88546255507,1102 C  139.61982378855,1093,107.26563876652,1093,84,1102" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 352.99118942731,1102 C 357.63436123348,1092,365.15859030837,1092,369.80176211454,1102 M 369.80176211454,1102 C  365.15859030837,1093,357.63436123348,1093,352.99118942731,1102" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 428.23348017621,1102 C 451.49911894273,1092,483.85330396476,1092,507.11894273128,1102 M 507.11894273128,1102 C  483.85330396476,1093,451.49911894273,1093,428.23348017621,1102" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 655.84140969163,1102 C 666.12775330396,1092,681.17621145374,1092,691.46255506608,1102 M 691.46255506608,1102 C  681.17621145374,1093,666.12775330396,1093,655.84140969163,1102" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 84,1208 C 103.51508379888,1198,130.86852886406,1198,150.38361266294,1208 M 150.38361266294,1208 C  130.86852886406,1199,103.51508379888,1199,84,1208" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 244.62197392924,1208 C 253.16387337058,1198,265.88640595903,1198,274.42830540037,1208 M 274.42830540037,1208 C  265.88640595903,1199,253.16387337058,1199,244.62197392924,1208" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 320.95716945996,1208 C 340.47225325885,1198,367.82569832402,1198,387.34078212291,1208 M 387.34078212291,1208 C  367.82569832402,1199,340.47225325885,1199,320.95716945996,1208" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<path d="M 550.35826086957,1314 C 561.83408695652,1304,578.46852173913,1304,589.94434782609,1314 M 589.94434782609,1314 C  578.46852173913,1305,561.83408695652,1305,550.35826086957,1314" stroke-width="0.5" stroke="#1b1b1b" ></path>
+<line x1="727.47544483986" y1="518" x2="727.47544483986" y2="508" stroke-width="1" stroke="#1b1b1b" fill="none" ></line>
+<line x1="727.47544483986" y1="508" x2="921" y2="508" stroke-width="1" stroke="#1b1b1b" fill="none" ></line>
+<line x1="921" y1="518" x2="921" y2="508" stroke-width="1" stroke="#1b1b1b" fill="none" ></line>
+<text x="730.47544483986" y="518" dy="4.026" fill="#303030" font-size="12" font-family="Microsoft YaHei" xml:space="preserve" >1</text>
+<line x1="103.74720357942" y1="664" x2="103.74720357942" y2="654" stroke-width="1" stroke="#1b1b1b" fill="none" ></line>
+<line x1="103.74720357942" y1="654" x2="245.30425055928" y2="654" stroke-width="1" stroke="#1b1b1b" fill="none" ></line>
+<line x1="245.30425055928" y1="664" x2="245.30425055928" y2="654" stroke-width="1" stroke="#1b1b1b" fill="none" ></line>
+<text x="106.74720357942" y="664" dy="4.026" fill="#303030" font-size="12" font-family="Microsoft YaHei" xml:space="preserve" >2</text>
+<g id="custom"></g></svg>
