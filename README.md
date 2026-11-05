@@ -8,5 +8,6 @@ OctoPus samples of input, output, and images for transcribing.
 - Input-JPS: Sample JPS input files
 - Output-JPG: Rendered JPEG files from sources in Input-JPS
 - Output-PDF: Rendered PDF files from sources in Input-JPS
+- Output-PNG: Rendered PNG files from sources in Input-JPS
 - Output-SVG: Rendered SVG files from sources in Input-JPS
   
